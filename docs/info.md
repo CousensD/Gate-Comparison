@@ -25,4 +25,3 @@ Simulate using Wokwi, testing against this truth table as a golden file
 ## External hardware |
 12 LED's
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
